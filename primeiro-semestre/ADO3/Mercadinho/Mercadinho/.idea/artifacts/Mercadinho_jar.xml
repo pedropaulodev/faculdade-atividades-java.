@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Mercadinho:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Mercadinho_jar</output-path>
+    <root id="archive" name="Mercadinho.jar">
+      <element id="module-output" name="Mercadinho" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EncontraNoVetor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EncontraNoVetor_jar</output-path>
+    <root id="archive" name="EncontraNoVetor.jar">
+      <element id="module-output" name="EncontraNoVetor" />
+    </root>
+  </artifact>
+</component>

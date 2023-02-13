@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="adoCinema">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../personagemComClasse/adoCinema/out/artifacts/adoCinema_jar/adoCinema.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

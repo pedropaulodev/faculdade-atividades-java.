@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Quis:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Quis_jar</output-path>
+    <root id="archive" name="Quis.jar">
+      <element id="module-output" name="Quis" />
+    </root>
+  </artifact>
+</component>

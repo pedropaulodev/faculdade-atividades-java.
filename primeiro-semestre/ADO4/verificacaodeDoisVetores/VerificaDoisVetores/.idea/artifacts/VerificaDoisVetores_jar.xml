@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VerificaDoisVetores:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VerificaDoisVetores_jar</output-path>
+    <root id="archive" name="VerificaDoisVetores.jar">
+      <element id="module-output" name="VerificaDoisVetores" />
+    </root>
+  </artifact>
+</component>

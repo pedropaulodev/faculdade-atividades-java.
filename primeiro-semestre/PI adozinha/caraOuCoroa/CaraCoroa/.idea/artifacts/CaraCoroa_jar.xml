@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CaraCoroa:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CaraCoroa_jar</output-path>
+    <root id="archive" name="CaraCoroa.jar">
+      <element id="module-output" name="CaraCoroa" />
+    </root>
+  </artifact>
+</component>

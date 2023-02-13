@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pedagio:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pedagio_jar</output-path>
+    <root id="archive" name="pedagio.jar">
+      <element id="module-output" name="pedagio" />
+    </root>
+  </artifact>
+</component>
